@@ -1,0 +1,7 @@
+Dari awal nih
+1.  pkg update
+2.  pkg upgrade
+3.  pkg install python2
+4.  cd /sdcard
+5.  ls
+6.  python2 compile.py
